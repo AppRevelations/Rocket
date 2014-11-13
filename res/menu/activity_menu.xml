@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/overflow"
+        android:icon="@drawable/ic_action_action_account_child"
+        android:title="@string/leaderboard"
+        app:showAsAction="always"
+    />
+    <item
+        android:id="@+id/leaderboard"
+        android:icon="@drawable/ic_action_navigation_more_vert"
+        android:title="@string/overflow"
+        app:showAsAction="always"/>
+
+</menu>
